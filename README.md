@@ -1,46 +1,3 @@
-
-# Flat-Price-Predictor
-
-The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and estimate the prices of flats or apartments in the Indian state of Haryana. It utilizes various data and factors, including market trends, location, property features, and economic indicators, to provide potential buyers or investors with insights into expected flat prices in the region.
-
-## Roadmap
-
-![Static Badge](https://img.shields.io/badge/1.Data_gathering-grey) ![Static Badge](https://img.shields.io/badge/2.Data_preprossing%2FCleaning-grey) ![Static Badge](https://img.shields.io/badge/3.Feature_Engineering-grey) ![Static Badge](https://img.shields.io/badge/4.Exploratory_data%20analysis%20(EDA)%20-grey) ![Static Badge](https://img.shields.io/badge/5.Outlier_%20Detection%20and%20Removal%20-grey) ![Static Badge](https://img.shields.io/badge/6.Missing_%20Value%20imputation%20-grey) ![Static Badge](https://img.shields.io/badge/7.Feature%20_selection%20-grey) ![Static Badge](https://img.shields.io/badge/8.Model%20_Selection%20%26%20Productionalization%20-grey) ![Static Badge](https://img.shields.io/badge/9.%20Building%20_the%20Recommender%20System%20-grey)
-
-## dataset
-
-
-## installation 
-
-
-## 1.Data gathering 
-
-        a. Project overview in details
-
-        b. Gather data for the project
-
-        c. Details of the data
-
-## 2.Data preprossing/Cleaning
-
-        a. Merging House and Flats Data
-
-        b. Basic Level Data Cleaning
-
-## 3.Feature Engineering
-
-    A. Feature Engineering on Columns:
-
-        i.Additional Room
-
-        ii.Area With Type
-
-        iii.Age Possession
-
-        iv.Furnish Details
-
-        v.features : luxury Score
-        
 ## 4.Exploratory data analysis (EDA) 
 
         A. Univariate Analysis
@@ -120,10 +77,6 @@ b.Price Prediction Web Interface -Streamlit
 
 ## setup
 ## Demo
-
-
-
-
 
 
 # Gurgaon-inside-of-real-estate-using-machine-learning
